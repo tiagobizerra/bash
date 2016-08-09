@@ -4,6 +4,8 @@
 
 # Map regions
 
+# get instance key pair name
+
 # Variables
 OUTPUT=text
 DEFAULT_USER=ec2-user
